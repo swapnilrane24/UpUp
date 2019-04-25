@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 4a7b7efd332bb9744afcdf9479355920
+timeCreated: 1475853926
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: squareBorder
+    21300002: square
+    21300004: star
+    21300006: UI_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: squareBorder
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 251
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline:
+      - - {x: -121, y: 121}
+        - {x: -121, y: -121}
+        - {x: 121, y: -121}
+        - {x: 121, y: 121}
+      - - {x: -114, y: 114}
+        - {x: 114, y: 114}
+        - {x: 114, y: -114}
+        - {x: -114, y: -114}
+    - name: square
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 249
+        width: 246
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -123, y: 123}
+        - {x: -123, y: -123}
+        - {x: 123, y: -123}
+        - {x: 123, y: 123}
+      - - {x: -114, y: 114}
+        - {x: 114, y: 114}
+        - {x: 114, y: -114}
+        - {x: -114, y: -114}
+      - - {x: -108, y: 110}
+        - {x: -110, y: 108}
+        - {x: -110, y: -108}
+        - {x: -108, y: -110}
+        - {x: 108, y: -110}
+        - {x: 110, y: -108}
+        - {x: 110, y: 108}
+        - {x: 108, y: 110}
+    - name: star
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 259
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 116.5, y: 39}
+        - {x: 12.5, y: 121}
+        - {x: -19.5, y: 121}
+        - {x: -129.5, y: 41}
+        - {x: -129.5, y: 19}
+        - {x: -94.5, y: -121}
+        - {x: 82.5, y: -121}
+        - {x: 85.5, y: -120}
+        - {x: 128.5, y: 17}
+        - {x: 128.5, y: 33}
+    outline: []
+  spritePackingTag: GUI
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

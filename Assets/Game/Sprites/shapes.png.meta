@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: e9b68c1ac05175546ada6ad31054f6e6
+timeCreated: 1476435998
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: triangleOut
+    21300002: starOut
+    21300004: hexaOut
+    21300006: triangleIn
+    21300008: starIn
+    21300010: hexaIn
+    21300012: circleOut
+    21300014: rectOut
+    21300016: shapes_8
+    21300018: circleIn
+    21300020: rectIn
+    21300022: lock
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: triangleOut
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 263.33334
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105, y: -71}
+        - {x: 12, y: 92}
+        - {x: -2, y: 113}
+        - {x: -6, y: 113}
+        - {x: -13, y: 104}
+        - {x: -128, y: -97}
+        - {x: -132, y: -105}
+        - {x: -132, y: -113}
+        - {x: 126, y: -113}
+        - {x: 126, y: -107}
+        - {x: 122, y: -96}
+    - name: starOut
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 768
+        width: 263.33337
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 131, y: 41}
+        - {x: 55, y: 65}
+        - {x: 8, y: 124}
+        - {x: -16, y: 124}
+        - {x: -43, y: 51}
+        - {x: -129, y: 37}
+        - {x: -129, y: 24}
+        - {x: -116, y: 7}
+        - {x: -83, y: -124}
+        - {x: 96, y: -124}
+        - {x: 82, y: -94}
+        - {x: 131, y: 11}
+    - name: hexaOut
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 768
+        width: 263.33337
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 113}
+        - {x: -126, y: 6}
+        - {x: -126, y: -12}
+        - {x: -67, y: -113}
+        - {x: 73, y: -113}
+        - {x: 132, y: -16}
+        - {x: 132, y: 7}
+        - {x: 79, y: 113}
+      - - {x: -45, y: 85}
+        - {x: 55, y: 83}
+        - {x: 97, y: 12}
+        - {x: 97, y: -12}
+        - {x: 56, y: -83}
+        - {x: -45, y: -84}
+    - name: triangleIn
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 263.33334
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86, y: -38}
+        - {x: 15, y: 85}
+        - {x: 1, y: 111}
+        - {x: -3, y: 113}
+        - {x: -7, y: 113}
+        - {x: -12, y: 104}
+        - {x: -113, y: -71}
+        - {x: -132, y: -104}
+        - {x: -132, y: -113}
+        - {x: 124, y: -113}
+        - {x: 126, y: -111}
+        - {x: 126, y: -107}
+    - name: starIn
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 512
+        width: 263.33337
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113, y: 41}
+        - {x: 10, y: 124}
+        - {x: -3, y: 124}
+        - {x: -8, y: 121}
+        - {x: -126, y: 38}
+        - {x: -129, y: 31}
+        - {x: -129, y: 21}
+        - {x: -66, y: -34}
+        - {x: -88, y: -124}
+        - {x: 85, y: -124}
+        - {x: 84, y: -104}
+        - {x: 131, y: 22}
+        - {x: 131, y: 34}
+    - name: hexaIn
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 512
+        width: 263.33337
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132, y: 6}
+        - {x: 110, y: 45}
+        - {x: 73, y: 109}
+        - {x: 69, y: 113}
+        - {x: -61, y: 113}
+        - {x: -63, y: 112}
+        - {x: -72, y: 97}
+        - {x: -121, y: 12}
+        - {x: -126, y: 3}
+        - {x: -126, y: -3}
+        - {x: -117, y: -19}
+        - {x: -65, y: -109}
+        - {x: -61, y: -113}
+        - {x: 69, y: -113}
+        - {x: 71, y: -112}
+        - {x: 99, y: -64}
+        - {x: 132, y: -6}
+    - name: circleOut
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 263.33334
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99, y: 128}
+        - {x: -129, y: 89}
+        - {x: -129, y: -48}
+        - {x: -121, y: -85}
+        - {x: -58, y: -128}
+        - {x: 51, y: -128}
+        - {x: 86, y: -121}
+        - {x: 131, y: -37}
+        - {x: 131, y: 99}
+        - {x: 74, y: 128}
+      - - {x: -29, y: -93}
+        - {x: -92, y: 30}
+        - {x: -9, y: 97}
+        - {x: 31, y: 93}
+        - {x: 98, y: 10}
+        - {x: 36, y: -91}
+    - name: rectOut
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 256
+        width: 263.33337
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: -128}
+        - {x: 72, y: 128}
+        - {x: -60, y: 128}
+        - {x: -60, y: -128}
+      - - {x: -38, y: 109}
+        - {x: 50, y: 109}
+        - {x: 50, y: -109}
+        - {x: -38, y: -109}
+    - name: shapes_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 256
+        width: 263.33334
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 127, y: -114}
+        - {x: 127, y: -112}
+        - {x: 129, y: -108}
+        - {x: 129, y: 108}
+        - {x: 128, y: 109}
+        - {x: 127, y: 114}
+        - {x: 120, y: 123}
+        - {x: 119, y: 123}
+        - {x: 113, y: 128}
+        - {x: -115, y: 128}
+        - {x: -124, y: 121}
+        - {x: -124, y: 120}
+        - {x: -129, y: 114}
+        - {x: -131, y: 108}
+        - {x: -131, y: -108}
+        - {x: -130, y: -109}
+        - {x: -129, y: -114}
+        - {x: -122, y: -123}
+        - {x: -121, y: -123}
+        - {x: -115, y: -128}
+        - {x: 113, y: -128}
+        - {x: 122, y: -121}
+        - {x: 122, y: -120}
+    - name: circleIn
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 263.33334
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 131, y: -32}
+        - {x: 131, y: 23}
+        - {x: 123, y: 51}
+        - {x: 112, y: 72}
+        - {x: 88, y: 105}
+        - {x: 41, y: 128}
+        - {x: -36, y: 128}
+        - {x: -77, y: 112}
+        - {x: -106, y: 80}
+        - {x: -129, y: 36}
+        - {x: -129, y: -28}
+        - {x: -119, y: -59}
+        - {x: -107, y: -81}
+        - {x: -59, y: -122}
+        - {x: -35, y: -128}
+        - {x: 33, y: -128}
+        - {x: 47, y: -125}
+        - {x: 86, y: -102}
+        - {x: 113, y: -73}
+    - name: rectIn
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 263.33337
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: -128}
+        - {x: 57, y: 128}
+        - {x: -45, y: 128}
+        - {x: -45, y: -128}
+    - name: lock
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 263.33337
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: 24}
+        - {x: 76, y: 84}
+        - {x: 37, y: 128}
+        - {x: -40, y: 128}
+        - {x: -74, y: 81}
+        - {x: -82, y: 15}
+        - {x: -86, y: -12}
+        - {x: -86, y: -71}
+        - {x: -80, y: -93}
+        - {x: -37, y: -128}
+        - {x: 36, y: -128}
+        - {x: 43, y: -126}
+        - {x: 74, y: -90}
+        - {x: 84, y: -62}
+        - {x: 84, y: -9}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
